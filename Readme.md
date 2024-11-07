@@ -1,0 +1,1 @@
+# This repository contains a MySQL-based solution for LeetCode's SQL based problems.
